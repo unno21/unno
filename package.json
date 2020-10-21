@@ -1,0 +1,22 @@
+{
+  "name": "unno21",
+  "version": "1.0.1",
+  "description": "This is a test package for practice purpose only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unno21/unno.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "Richard Roncales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unno21/unno/issues"
+  },
+  "homepage": "https://github.com/unno21/unno#readme"
+}
